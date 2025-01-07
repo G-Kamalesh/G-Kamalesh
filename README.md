@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/-Decision_Trees-4CAF50?style=flat&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/-Regression-2196F3?style=flat&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/-Classification-FF5722?style=flat&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/-Tensorflow-FF5722?style=flat&logo=scikit-learn&logoColor=white">
 </p>
 
 <p align="center">
